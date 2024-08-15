@@ -1,4 +1,4 @@
-# DonNet Ethernet UDP Fins Gateway Omron Protocol
+# DotNet Ethernet UDP Fins Gateway Omron Protocol
 
 Ethernet Protocol for connecting to Omron NX1P2 PLC with UDP
 
